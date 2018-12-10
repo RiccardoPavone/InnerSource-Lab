@@ -13,6 +13,9 @@ un elenco:
 | 11  | 12  |
 | 21  | 22  |
 
+[comment]
+[Markdown]
+### Gitkraken
 ![GitHub image](img/github_image.jpg)
 
 [Facebook](facebook.com/riccardo.pavone.982 "Profilo Facebook")
