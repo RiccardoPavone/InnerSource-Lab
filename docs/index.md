@@ -18,4 +18,4 @@ un elenco:
 ### Gitkraken
 ![GitHub image](img/github_image.jpg)
 
-[Facebook](facebook.com/riccardo.pavone.982 "Profilo Facebook")
+[GitHub](https://github.com/RiccardoPavone "Profilo GitHub")
